@@ -1,3 +1,4 @@
+from __future__ import print_function
 #    ANARCI - Antibody Numbering and Antigen Receptor ClassIfication
 #    Copyright (C) 2016 Oxford Protein Informatics Group (OPIG)
 #
@@ -50,7 +51,6 @@ Notes:
 
 '''
 
-from __future__ import print_function
 import os
 import sys
 import tempfile
